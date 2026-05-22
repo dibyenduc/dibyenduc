@@ -15,8 +15,6 @@ Principal-level AI/ML and distributed systems engineer with deep experience in f
 - **Proof-Carrying RAG** — trust-aware retrieval with provenance verification and fail-closed controls
 - **Graph ML for Fraud Detection** — PyTorch Geometric / GraphSAGE on financial transaction graphs
 - **LoRAland** — efficient LLM fine-tuning and inference workflows
-- **Local / Private RAG** — privacy-sensitive RAG with hybrid retrieval
-- **Voice Agent / Voice RAG** — speech-enabled interaction with web and knowledge systems
 
 ## Background
 Dual PhD in Computer Science spanning machine learning and cryptography.  
