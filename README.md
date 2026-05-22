@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**dibyenduc/dibyenduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Dibyendu Chakrabarti
 
-Here are some ideas to get you started:
+Principal-level AI/ML and distributed systems engineer with deep experience in frontier-model evaluation, verifiable GenAI, graph ML, and large-scale production systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Frontier model evaluation and RLHF-style assessment
+- Verifiable / proof-carrying RAG
+- Graph ML for fraud detection
+- Efficient LLM adaptation and inference
+- Privacy-preserving AI systems
+
+## Selected work
+- **Proof-Carrying RAG** — trust-aware retrieval with provenance verification and fail-closed controls
+- **Graph ML for Fraud Detection** — PyTorch Geometric / GraphSAGE on financial transaction graphs
+- **LoRAland** — efficient LLM fine-tuning and inference workflows
+- **Local / Private RAG** — privacy-sensitive RAG with hybrid retrieval
+- **Voice Agent / Voice RAG** — speech-enabled interaction with web and knowledge systems
+
+## Background
+Dual PhD in Computer Science spanning machine learning and cryptography.  
+Previously worked across AI/ML and distributed systems roles at Space and Time, Williams-Sonoma, Experian, and Verizon.
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/dibyenduc
+- Google Scholar: https://scholar.google.com/citations?user=yTi4jLkAAAAJ&hl=en
