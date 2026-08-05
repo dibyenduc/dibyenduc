@@ -1,25 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Dibyendu Chakrabarti
 
-# I'm Dibyendu Chakrabarti
+**Principal-level AI Security & ML Architect** bridging deep academic theory with enterprise-grade system design. With dual PhDs in Machine Learning and Cryptography, my work focuses on securing the frontier AI supply chain, adversarial red teaming, and building verifiable, safe GenAI infrastructures.
 
-Principal-level AI/ML and distributed systems engineer with deep experience in frontier-model evaluation, verifiable GenAI, graph ML, and large-scale production systems.
+### 🛡️ Featured AI Security Architecture (Open Source)
+*(Click the links below to view the architecture and code)*
 
-## Current focus
-- Frontier model evaluation and RLHF-style assessment
-- Verifiable / proof-carrying RAG
-- Graph ML for fraud detection
-- Efficient LLM adaptation and inference
-- Privacy-preserving AI systems
+* 🔒 **[Enterprise Secure RAG Architecture](https://github.com/dibyenduc/secure-rag-architecture)** 
+  Architected a deny-by-default pipeline using LangChain and ChromaDB. Implements vector-level Role-Based Access Control (RBAC) via metadata filtering to prevent prompt-injections from leaking restricted corporate data.
+* ⚔️ **[Automated LLM Red Teaming Framework](https://github.com/dibyenduc/llm-redteam-evals)** 
+  A deterministic evaluation pipeline using local Ollama inference and an "LLM-as-a-Judge" to benchmark models against OWASP Top 10 vulnerabilities, achieving verifiable safety pass rates.
+* 🔑 **[Cryptographic ML Provenance Framework](https://github.com/dibyenduc/ml-model-provenance)** 
+  A supply chain defense tool preventing Remote Code Execution (RCE) via untrusted tensors. Uses RSA-PSS signatures and SHA-256 to guarantee the integrity of PyTorch `.pth` weights before loading.
 
-## Selected work
-- **Proof-Carrying RAG** — trust-aware retrieval with provenance verification and fail-closed controls
-- **Graph ML for Fraud Detection** — PyTorch Geometric / GraphSAGE on financial transaction graphs
-- **LoRAland** — efficient LLM fine-tuning and inference workflows
+### 🔬 Current Focus & Research
+- **Frontier Model Evaluation:** RLHF-style assessment for reasoning quality, code generation, and system-design judgment.
+- **Verifiable AI:** Proof-carrying RAG and trust-aware retrieval with fail-closed controls.
+- **Graph ML:** PyTorch Geometric / GraphSAGE applied to financial transaction graphs for fraud detection.
+- **Efficient Adaptation:** LoRAland-style LLM fine-tuning and inference workflows.
 
-## Background
-Dual PhD in Computer Science spanning machine learning and cryptography.  
-Previously worked across AI/ML and distributed systems roles at Space and Time, Williams-Sonoma, Experian, and Verizon.
+### 🛠️ Tech Stack
+* **AI/ML & Security:** PyTorch, LangChain, Hugging Face, ChromaDB, `cryptography` (RSA/SHA), OWASP Top 10 for LLMs.
+* **Systems:** Python, `uv`, Scala, Spark, Distributed ML Systems.
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/dibyenduc
-- Google Scholar: https://scholar.google.com/citations?user=yTi4jLkAAAAJ&hl=en
+### 🎓 Background
+Dual PhD in Computer Science spanning **Machine Learning** and **Cryptography**.  
+Previously held Principal/Director-level AI and distributed systems roles at Space and Time, Williams-Sonoma, Experian, and Verizon.
+
+### 📫 Connect
+- **LinkedIn:** [linkedin.com/in/dibyenduc](https://www.linkedin.com/in/dibyenduc)
+- **Google Scholar:** [200+ Citations](https://scholar.google.com/citations?user=yTi4jLkAAAAJ&hl=en)
