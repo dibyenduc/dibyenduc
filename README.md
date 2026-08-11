@@ -2,16 +2,24 @@
 
 **Principal-level AI Security & ML Architect** bridging deep academic theory with enterprise-grade system design. With dual PhDs in Machine Learning and Cryptography, my work focuses on securing the frontier AI supply chain, adversarial red teaming, and building verifiable, safe GenAI infrastructures.
 
-### 🛡️ Featured AI Security Architecture (Open Source)
-*(Click the links below to view the architecture and code)*
+### 🏰 Featured AI Security Architecture
 
-* 🔒 **[Enterprise Secure RAG Architecture](https://github.com/dibyenduc/secure-rag-architecture)** 
-  Architected a deny-by-default pipeline using LangChain and ChromaDB. Implements vector-level Role-Based Access Control (RBAC) via metadata filtering to prevent prompt-injections from leaking restricted corporate data.
-* ⚔️ **[Automated LLM Red Teaming Framework](https://github.com/dibyenduc/llm-redteam-evals)** 
-  A deterministic evaluation pipeline using local Ollama inference and an "LLM-as-a-Judge" to benchmark models against OWASP Top 10 vulnerabilities, achieving verifiable safety pass rates.
-* 🔑 **[Cryptographic ML Provenance Framework](https://github.com/dibyenduc/ml-model-provenance)** 
-  A supply chain defense tool preventing Remote Code Execution (RCE) via untrusted tensors. Uses RSA-PSS signatures and SHA-256 to guarantee the integrity of PyTorch `.pth` weights before loading.
+1. **[Zero-Trust Agentic Security Architecture](https://github.com/dibyenduc/agentic-security-provenance)**
+   - **Focus:** Multi-Agent LLM Security & Threat Modeling
+   - **Impact:** Decoupled tool-execution permissions from LLM context windows by engineering a strict capability-based sandbox using Python decorators. Implemented an Ed25519 cryptographic attestation pipeline to guarantee the provenance and auditability of all autonomous agent actions, mitigating OWASP Top 10 Agentic AI risks.
 
+2. **[Cryptographic ML Provenance Framework](https://github.com/dibyenduc/ml-model-provenance)**
+   - **Focus:** AI Supply Chain Defense
+   - **Impact:** AI supply chain defense tool using RSA-PSS signatures and SHA-256 hashing. Secures PyTorch weights to prevent RCE from poisoned tensors.
+
+3. **[Automated LLM Red Teaming Framework](https://github.com/dibyenduc/llm-red-teaming)**
+   - **Focus:** LLM-as-a-Judge Evaluation
+   - **Impact:** Deterministic evaluation pipeline benchmarking models against OWASP Top 10 vulnerabilities for verified safety pass rates.
+
+4. **[Secure RAG Architecture (Deny-by-Default)](https://github.com/dibyenduc/secure-rag)**
+   - **Focus:** Retrieval-Time RBAC
+   - **Impact:** Built a secure RAG pipeline using LangChain and ChromaDB. Implements vector-level RBAC to block prompt injections from leaking restricted data.
+   
 ### 🔬 Current Focus & Research
 - **Frontier Model Evaluation:** RLHF-style assessment for reasoning quality, code generation, and system-design judgment.
 - **Verifiable AI:** Proof-carrying RAG and trust-aware retrieval with fail-closed controls.
