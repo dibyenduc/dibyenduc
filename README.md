@@ -5,6 +5,6 @@ I build mathematically verifiable, zero-trust architectures for Enterprise AI. M
 
 ### 🛡️ The Enterprise AI Trust Stack
 * **[Zero-Trust Agentic Security Architecture](https://github.com/dibyenduc/agentic-security-provenance):** An MCP gateway for autonomous agents featuring WebAssembly (Wasm) execution sandboxing, zk-SNARK capability proofs, and Ed25519 cryptographic attestation. 
-* **[Secure RAG Architecture](https://github.com/dibyenduc/secure-rag):** A deny-by-default retrieval pipeline implementing vector-level RBAC to block prompt injections from leaking restricted data.
+* **[Secure RAG Architecture](https://github.com/dibyenduc/secure-rag-architecture):** A deny-by-default retrieval pipeline implementing vector-level RBAC to block prompt injections from leaking restricted data.
 * **[Cryptographic ML Provenance](https://github.com/dibyenduc/ml-model-provenance):** An AI supply chain defense tool using RSA-PSS signatures to secure PyTorch weights against poisoning and RCE.
-* **[Automated LLM Red Teaming](https://github.com/dibyenduc/llm-red-teaming):** A deterministic LLM-as-a-Judge pipeline benchmarking frontier models against the OWASP Top 10 for GenAI.
+* **[Automated LLM Red Teaming](https://github.com/dibyenduc/llm-red-team-evals):** A deterministic LLM-as-a-Judge pipeline benchmarking frontier models against the OWASP Top 10 for GenAI.
